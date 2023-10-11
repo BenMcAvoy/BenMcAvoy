@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BenMcAvoy
+- 👀 I’m interested in learning to program
+- 🌱 I’m currently learning Rust and 
+- 📫 Reach me at: `ben.mcavoy@tutanota.com`
