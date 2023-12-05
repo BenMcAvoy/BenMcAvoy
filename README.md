@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenMcAvoy
 - 👀 I’m interested in learning to program
-- 🌱 I’m currently learning Rust and 
+- 🌱 I’m currently learning Rust
 - 📫 Reach me at: `ben.mcavoy@tutanota.com`
 
 <a href="https://wakatime.com/@018c21b1-4778-4fc3-9702-6ad56350371c">
