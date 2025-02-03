@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenMcAvoy
 - 👀 I’m interested in learning to program
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 - 📫 Reach me at: `ben.mcavoy@tutanota.com`
 
 Since November 30th 2023:\
