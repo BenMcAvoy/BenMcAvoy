@@ -15,8 +15,8 @@ I'm passionate about learning to program and currently diving into **C++**. Here
 
 ### My WakaTime Stats
 
-[![BenMcAvoy's WakaTime Stats - Dark](https://github-readme-stats.vercel.app/api/wakatime?username=BenMcAvoy&langs_count=16&theme=github_dark_dimmed)](https://wakatime.com/@BenMcAvoy#gh-dark-mode-only)
-[![BenMcAvoy's WakaTime Stats - Light](https://github-readme-stats.vercel.app/api/wakatime?username=BenMcAvoy&langs_count=16&theme=light)](https://wakatime.com/@BenMcAvoy#gh-light-mode-only)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### GitHub Stats
 
