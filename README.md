@@ -16,15 +16,13 @@ I'm passionate about learning to program and currently diving into **C++**. Here
 ### My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C582%20hrs%2011%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 190.5 kB Used in GitHub's Storage 
  > 
-> 🏆 523 Contributions in the Year 2026
+> 🏆 549 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,11 +33,11 @@ I'm passionate about learning to program and currently diving into **C++**. Here
 **I Mostly Code in C++** 
 
 ```text
-C++                      60 repos            ███████████░░░░░░░░░░░░░░   43.80 % 
-TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-C                        7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+C++                      61 repos            ███████████░░░░░░░░░░░░░░   44.20 % 
+TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+C                        7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
@@ -49,7 +47,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenMcAvoy/BenMcAvoy/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 04:01:40 UTC
+ Last Updated on 15/05/2026 04:04:13 UTC
 <!--END_SECTION:waka-->
 
 ### GitHub Stats
