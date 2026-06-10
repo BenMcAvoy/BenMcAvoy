@@ -6,11 +6,6 @@ I'm passionate about learning to program and currently diving into **C++**.
 - 👀 **Interested in:** Programming, Game Development, Tooling, and more
 - 📫 **Reach me at:** [ben.mcavoy@tutanota.com](mailto:ben.mcavoy@tutanota.com)
 
-## 📊 My Programming Stats
-#### Since November 30th, 2023
-
-[![WakaTime](https://wakatime.com/badge/user/018c21b1-4778-4fc3-9702-6ad56350371c.svg?style=for-the-badge)](https://wakatime.com/@018c21b1-4778-4fc3-9702-6ad56350371c)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
