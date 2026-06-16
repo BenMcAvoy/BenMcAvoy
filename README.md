@@ -13,7 +13,7 @@ I'm passionate about learning to program and currently diving into **C++**.
 
 **🐱 My GitHub Data** 
 
-> 📦 196.3 kB Used in GitHub's Storage 
+> 📦 196.4 kB Used in GitHub's Storage 
  > 
 > 🏆 756 Contributions in the Year 2026
  > 
@@ -88,7 +88,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenMcAvoy/BenMcAvoy/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 05:07:42 UTC
+ Last Updated on 16/06/2026 05:05:21 UTC
 <!--END_SECTION:waka-->
 
 ## 🐙 GitHub Stats
