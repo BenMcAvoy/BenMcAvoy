@@ -9,33 +9,6 @@ Reach me at [ben.mcavoy@tutanota.com](mailto:ben.mcavoy@tutanota.com)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%208%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1384 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-🌆 Daytime                1932 commits        ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-🌃 Evening                2335 commits        ████████░░░░░░░░░░░░░░░░░   33.53 % 
-🌙 Night                  1312 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Wednesday                1445 commits        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Thursday                 992 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Friday                   689 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Saturday                 1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Sunday                   605 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -53,7 +26,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenMcAvoy/BenMcAvoy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:07:28 UTC
+ Last Updated on 29/07/2026 03:12:05 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
