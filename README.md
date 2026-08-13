@@ -12,21 +12,21 @@ Reach me at [ben.mcavoy@tutanota.com](mailto:ben.mcavoy@tutanota.com)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1494 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-🌆 Daytime                2041 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌃 Evening                2574 commits        █████████░░░░░░░░░░░░░░░░   34.32 % 
-🌙 Night                  1390 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+🌞 Morning                1516 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌆 Daytime                2059 commits        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+🌃 Evening                2635 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌙 Night                  1417 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1157 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Tuesday                  1330 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                1516 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Thursday                 1064 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   731 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Saturday                 1079 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sunday                   622 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Monday                   1194 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Tuesday                  1363 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Wednesday                1537 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Thursday                 1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Saturday                 1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Sunday                   622 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 ```
 
 
@@ -39,11 +39,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      69 repos            ███████████░░░░░░░░░░░░░░   45.10 % 
-Rust                     28 repos            █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-HTML                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+C++                      70 repos            ███████████░░░░░░░░░░░░░░   45.16 % 
+Rust                     29 repos            █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+HTML                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 
 
@@ -53,7 +53,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenMcAvoy/BenMcAvoy/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 02:34:17 UTC
+ Last Updated on 13/08/2026 02:33:10 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
