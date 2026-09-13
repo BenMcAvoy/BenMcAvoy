@@ -1,62 +1,57 @@
 # Ben McAvoy
 
-Learning C++. Interested in programming, game development, and tooling.
 
-Reach me at [ben.mcavoy@tutanota.com](mailto:ben.mcavoy@tutanota.com)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C631%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%208%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1772 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-🌆 Daytime                2565 commits        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-🌃 Evening                3245 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  1715 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1553 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Tuesday                  1757 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Wednesday                1831 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Thursday                 1292 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Friday                   902 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Saturday                 1249 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Sunday                   713 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-```
+I'm a programmer focused on C++, Rust, game engines, developer tooling, and systems programming.
 
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      74 repos            ████████████░░░░░░░░░░░░░   46.25 % 
-Rust                     30 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-TypeScript               16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
+I enjoy building software from the ground up—from rendering and scripting systems to robotics tools and experimental operating-system projects.
 
 
+## Featured projects
 
-**Timeline**
+### [Taskbulb](https://github.com/BenMcAvoy/Taskbulb)
+A current Rust project focused on building a practical, polished tool.
 
-![Lines of Code chart](https://raw.githubusercontent.com/BenMcAvoy/BenMcAvoy/main/assets/bar_graph.png)
+
+### [LunaticEngine](https://github.com/BenMcAvoy/LunaticEngine)
+A 2D game engine written in C++, designed around modern rendering and Lua scripting.
 
 
- Last Updated on 13/09/2026 04:19:19 UTC
-<!--END_SECTION:waka-->
+### [StrawberryVM](https://github.com/BenMcAvoy/StrawberryVM)
+A small fantasy virtual machine written in Rust, with intentionally limited resources.
 
-## GitHub Stats
 
-[![BenMcAvoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenMcAvoy&show_icons=true&hide_title=true&hide=prs&theme=github_dark_dimmed)](https://github.com/BenMcAvoy#gh-dark-mode-only)
-[![BenMcAvoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenMcAvoy&show_icons=true&hide_title=true&hide=prs)](https://github.com/BenMcAvoy#gh-light-mode-only)
+### [jellyOS](https://github.com/BenMcAvoy/jellyOS)
+An experimental operating system project exploring low-level Rust development.
+
+
+### [Rivet](https://github.com/ReDoIngMods/Rivet)
+A modding toolkit for Scrap Mechanic, focused on structured and discoverable mod loading.
+
+
+## Technologies
+
+
+- C++ — game engines, systems programming, rendering
+- Rust — low-level tools and experimental systems
+- TypeScript / JavaScript — web tools and utilities
+- Lua — scripting and engine integration
+
+
+## Currently exploring
+
+
+- SaaS development
+- Game-engine architecture
+- Rendering systems
+- Robotics software
+- Operating-system development
+- Developer tooling
+
+
+## Get in touch
+
+
+- Website: [rustbytes.uk](https://rustbytes.uk)
+- Email: [ben.mcavoy@tutanota.com](mailto:ben.mcavoy@tutanota.com)
+
