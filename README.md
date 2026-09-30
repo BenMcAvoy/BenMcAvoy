@@ -4,7 +4,7 @@
 I'm a programmer focused on C++, Rust, game engines, developer tooling, and systems programming.
 
 
-I enjoy building software from the ground up—from rendering and scripting systems to robotics tools and experimental operating-system projects.
+I enjoy building software from the ground up, from rendering and scripting systems to robotics tools and experimental operating-system projects.
 
 
 ## Featured projects
@@ -32,10 +32,10 @@ A modding toolkit for Scrap Mechanic, focused on structured and discoverable mod
 ## Technologies
 
 
-- C++ — game engines, systems programming, rendering
-- Rust — low-level tools and experimental systems
-- TypeScript / JavaScript — web tools and utilities
-- Lua — scripting and engine integration
+- C++ - game engines, systems programming, rendering
+- Rust - low-level tools and experimental systems
+- TypeScript / JavaScript - web tools and utilities
+- Lua - scripting and engine integration
 
 
 ## Currently exploring
