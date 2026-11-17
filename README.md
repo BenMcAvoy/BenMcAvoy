@@ -7,6 +7,11 @@ I'm a Software Development T Level student with industry experience at Yunex Tra
 Outside of work and education, I enjoy building software from the ground up. My main interests are systems programming, embedded development, Linux, game engines, virtual machines and developer tooling.
 
 
+## Open-source contribution
+
+I reported a kernel denial-of-service issue in Google's Android Emulator Hypervisor Driver and proposed a checked-copy fix upstream. The [issue](https://github.com/google/android-emulator-hypervisor-driver/issues/101) and [pull request](https://github.com/google/android-emulator-hypervisor-driver/pull/102) are public; the PR is still open.
+
+
 ## Featured projects
 
 ### [Taskbulb](https://github.com/BenMcAvoy/Taskbulb)
