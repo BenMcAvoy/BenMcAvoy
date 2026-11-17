@@ -10,23 +10,23 @@ Outside of work and education, I enjoy building software from the ground up. My 
 ## Featured projects
 
 ### [Taskbulb](https://github.com/BenMcAvoy/Taskbulb)
-A practical Rust application focused on delivering a polished tool.
+A Rust Windows tray app for Home Assistant lights, with mouse-wheel controls for hue, saturation and brightness, plus monitor brightness controls.
 
 
 ### [LunaticEngine](https://github.com/BenMcAvoy/LunaticEngine)
-A 2D game engine developed in C++, with a rendering system and Lua scripting integration.
+A C++20 2D game engine and editor with OpenGL rendering, ImGui tooling, LuaJIT scripting, RTTR reflection and JSON scene serialization.
 
 
 ### [StrawberryVM](https://github.com/BenMcAvoy/StrawberryVM)
-An experimental fantasy virtual machine written in Rust, designed around intentionally limited resources.
+A Rust fantasy virtual machine with a custom instruction set, assembler, runner and REPL.
 
 
 ### [jellyOS](https://github.com/BenMcAvoy/jellyOS)
-An experimental operating-system project exploring low-level Rust development and OS design.
+An experimental Rust operating system for x86_64 BIOS, with interrupt handling, keyboard input and kernel tests.
 
 
 ### [Rivet](https://github.com/ReDoIngMods/Rivet)
-A Scrap Mechanic modding toolkit focused on structured, discoverable mod loading.
+A native C++ mod loader for Scrap Mechanic that discovers Thunderstore packages, resolves dependencies and loads mod entrypoints.
 
 
 ## Technologies
