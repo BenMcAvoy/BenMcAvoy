@@ -1,39 +1,41 @@
 # Ben McAvoy
 
 
-I'm a programmer focused on C++, Rust, game engines, developer tooling, and systems programming.
+I'm a Software Development T Level student with industry experience at Yunex Traffic and J.P. Morgan. I've worked on embedded firmware in C, embedded Linux and custom operating-system builds, as well as software development in an engineering team.
 
 
-I enjoy building software from the ground up, from rendering and scripting systems to robotics tools and experimental operating-system projects.
+Outside of work and education, I enjoy building software from the ground up. My main interests are systems programming, embedded development, Linux, game engines, virtual machines and developer tooling.
 
 
 ## Featured projects
 
 ### [Taskbulb](https://github.com/BenMcAvoy/Taskbulb)
-A current Rust project focused on building a practical, polished tool.
+A practical Rust application focused on delivering a polished tool.
 
 
 ### [LunaticEngine](https://github.com/BenMcAvoy/LunaticEngine)
-A 2D game engine written in C++, designed around modern rendering and Lua scripting.
+A 2D game engine developed in C++, with a rendering system and Lua scripting integration.
 
 
 ### [StrawberryVM](https://github.com/BenMcAvoy/StrawberryVM)
-A small fantasy virtual machine written in Rust, with intentionally limited resources.
+An experimental fantasy virtual machine written in Rust, designed around intentionally limited resources.
 
 
 ### [jellyOS](https://github.com/BenMcAvoy/jellyOS)
-An experimental operating system project exploring low-level Rust development.
+An experimental operating-system project exploring low-level Rust development and OS design.
 
 
 ### [Rivet](https://github.com/ReDoIngMods/Rivet)
-A modding toolkit for Scrap Mechanic, focused on structured and discoverable mod loading.
+A Scrap Mechanic modding toolkit focused on structured, discoverable mod loading.
 
 
 ## Technologies
 
 
-- C++ - game engines, systems programming, rendering
-- Rust - low-level tools and experimental systems
+- C - embedded firmware
+- C++ - systems programming, game engines, rendering
+- Rust - low-level tools, virtual machines and operating-system development
+- Linux - embedded Linux and custom operating-system builds
 - TypeScript / JavaScript - web tools and utilities
 - Lua - scripting and engine integration
 
