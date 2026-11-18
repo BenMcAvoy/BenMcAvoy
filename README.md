@@ -36,11 +36,11 @@ A native C++ mod loader for Scrap Mechanic that discovers Thunderstore packages,
 
 ## Technologies
 
-- C and C++ — embedded firmware, systems programming, game engines and rendering
-- Rust — low-level tools, virtual machines and operating-system development
-- Linux — embedded Linux and custom operating-system builds
-- TypeScript / JavaScript — web tools and utilities
-- Lua — scripting and engine integration
+- C and C++ - embedded firmware, systems programming, game engines and rendering
+- Rust - low-level tools, virtual machines and operating-system development
+- Linux - embedded Linux and custom operating-system builds
+- TypeScript / JavaScript - web tools and utilities
+- Lua - scripting and engine integration
 
 ## Get in touch
 
